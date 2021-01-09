@@ -1,5 +1,5 @@
 PREPEND   
-REAMDE was a good story
+REAMDE was a good story   
 APPEND   
 ONE   
 TWO   
